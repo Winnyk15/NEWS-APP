@@ -1,4 +1,4 @@
-#!/home/winnie/Documents/News-App/virtual/bin/python3.8
+#!/home/winnie/Documents/News-App/virtual/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
