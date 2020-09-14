@@ -1,5 +1,5 @@
 # NEWS-APP
-## By Winnie Kahendah
+## By Winnie Kahendah   https://winny-news-api-app.herokuapp.com
 
 ## Description
 
